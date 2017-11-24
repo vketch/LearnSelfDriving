@@ -1,1 +1,1 @@
-This project is aimed to write test program in scopes of learn Self Driving topic
+This project is aimed to create  test programs in scopes of learn Self Driving topic
